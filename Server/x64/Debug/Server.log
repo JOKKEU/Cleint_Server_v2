@@ -1,0 +1,3 @@
+﻿  Server.cpp
+D:\C++\Server\Server.cpp(107,10): warning C4101: recvBuffer: неиспользованная локальная переменная
+  Server.vcxproj -> D:\C++\Server\x64\Debug\Server.exe
